@@ -1,0 +1,29 @@
+.main {
+    /* color: aqua; */
+    background-color: rgb(97, 112, 112);
+    margin: 0;
+    padding: 0;
+
+}
+
+.main div {
+    text-align: center;
+    padding: 10px;
+}
+
+.main div ul li {
+    color: white;
+    display: inline;
+    margin-left: 40px;
+    padding: 5px;
+}
+
+.main div ul li:hover{
+    background-color: rgb(156, 160, 160);
+    border-radius: 4px;
+}
+
+.main div ul li a{
+    text-decoration: none;
+    color: white;
+}
